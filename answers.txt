@@ -10,3 +10,8 @@ Answer: Data science could be applied in finance. An example is fraud detection,
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps all previous history the same by creating a new merge commit, but rebasing rewrites history by creating a linear timeline.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning about Machine Learning models, having a better grasp on Python, and learning real world applications with Data Science.
+
