@@ -5,3 +5,8 @@ Answer: We might consider using Git to remotely access a project or workspace ac
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied in finance. An example is fraud detection, as ML models can track spending habits.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps all previous history the same by creating a new merge commit, but rebasing rewrites history by creating a linear timeline.
